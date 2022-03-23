@@ -3,3 +3,4 @@
  * Tanos
  * Pinguino 
  * Acertijo
+ * Duende verde
