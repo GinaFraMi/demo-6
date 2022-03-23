@@ -7,3 +7,5 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
+* Iron Man
+* Capital America
