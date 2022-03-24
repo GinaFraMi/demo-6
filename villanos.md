@@ -5,3 +5,5 @@
  * Acertijo
  * Duende verde
  * Joker
+ * Electro
+ * Loki
