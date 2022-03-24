@@ -4,3 +4,5 @@
  * Pinguino 
  * Acertijo
  * Duende verde
+ * Electro
+ * Loki
