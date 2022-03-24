@@ -4,3 +4,4 @@
  * Pinguino 
  * Acertijo
  * Duende verde
+ * Joker
