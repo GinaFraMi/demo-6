@@ -5,3 +5,4 @@
 3. Buscar nuevos miembros
 4. Ir a la tienda
 5. Ir a la tienda otra vez 
+5. Ir a la tienda otra vez X2
